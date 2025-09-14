@@ -1,5 +1,6 @@
 ==Arquitectura de sistemas DCS, supervisión
-remota de procesos industriales. SCADA==
+remota de procesos industriales. SCADA
+
 **Quien es autores son los mas destacados:** 
 * Stuart A. Boyer
 * Siddharth Sridhar
