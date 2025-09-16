@@ -20,7 +20,8 @@ Architecture and security of SCADA systems: A review (2021), Geeta Yadav y Kolin
 
 **Cual es la Evolucion del tema en el Tiempo**
 
-<img width="1657" height="795" alt="evolucion DCS, SCADA RRRM" src="https://github.com/user-attachments/assets/93f99ec7-a810-46a9-80a9-c3ef76821893" />
+<img width="1127" height="472" alt="image" src="https://github.com/user-attachments/assets/e5149d66-e393-4e04-9bc1-d3bc3b33a63e" />
+
 
 
 **Opinion sobre el impacto que esta tecnologia puede tener en Bolivia**
